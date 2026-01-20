@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buiducnhat&show_icons=true&theme=radical)
 <!--
 **XuanQuang1301/XuanQuang1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
