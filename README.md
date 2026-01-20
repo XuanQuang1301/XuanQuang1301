@@ -15,5 +15,5 @@
 
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME-GITHUB-CUA-BAN]&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XuanQuang1301&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" />
 </div>
