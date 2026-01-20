@@ -14,3 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuanQuang1301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
 
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME-GITHUB-CUA-BAN]&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" />
+</div>
