@@ -1,16 +1,16 @@
-## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buiducnhat&show_icons=true&theme=radical)
-<!--
-**XuanQuang1301/XuanQuang1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi+there!+I'm+Xuân+Quang" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,c++,mysql,docker,git,idea" />
+  </a>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=[XuanQuang1301]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[XuanQuang1301]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
+
+</div>
