@@ -5,15 +5,14 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,nodejs,mysql,docker,git,idea" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cpp,nodejs,mysql,docker,git,idea,react" />
   </a>
 
 <br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XuanQuang1301&show_icons=true&theme=radical" alt="XuanQuang1301's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuanQuang1301&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XuanQuang1301&show_icons=true&theme=radical&t=1)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanQuang1301&layout=compact&theme=radical&t=1)
 
 </div>
 
