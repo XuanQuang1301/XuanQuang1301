@@ -10,8 +10,10 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=XuanQuang1301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuanQuang1301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XuanQuang1301&show_icons=true&theme=radical" alt="XuanQuang1301's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuanQuang1301&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
 </div>
 
